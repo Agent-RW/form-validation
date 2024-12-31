@@ -1,0 +1,23 @@
+* {
+    color: white;
+}
+
+body {
+    display: flex;
+    background-color: #080b10;
+}
+
+#sidebar {
+    width: 40%;
+    height: 100vh;
+}
+
+#sidebar>img {
+    height: 100%;
+    margin: auto;
+}
+
+#content {
+    width: 60%;
+    height: 100vh;
+}
